@@ -1,2 +1,2 @@
 # testrepo
-implement the ci/cd with guthub action
+implement the ci/cd with github action
